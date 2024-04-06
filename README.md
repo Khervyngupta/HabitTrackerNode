@@ -22,3 +22,9 @@ The aim of this project is to create a full-stack habit tracker application usin
 - Display 7 days of each habit, allowing users to mark today's habit and view statuses for the previous 6 days.
 - Toggle between different statuses for today's and previous days' habits.
 - Store data in a database.
+
+# Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Khervyngupta/HabitTrackerNode/master/Images/Img1.png)
+
+![App Screenshot](https://raw.githubusercontent.com/Khervyngupta/HabitTrackerNode/master/Images/Img2.png)
