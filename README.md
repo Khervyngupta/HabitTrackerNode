@@ -25,10 +25,6 @@ The aim of this project is to create a full-stack habit tracker application usin
 
 # Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Khervyngupta/NodejsAuthentication/master/Images/Img1.png)
+![App Screenshot](https://raw.githubusercontent.com/Khervyngupta/HabitTrackerNode/master/Images/Img1.png)
 
-![App Screenshot](https://raw.githubusercontent.com/Khervyngupta/NodejsAuthentication/master/Images/Img2.png)
-
-![App Screenshot](https://raw.githubusercontent.com/Khervyngupta/NodejsAuthentication/master/Images/Img3.png)
-
-![App Screenshot](https://raw.githubusercontent.com/Khervyngupta/NodejsAuthentication/master/Images/Img4.png)
+![App Screenshot](https://raw.githubusercontent.com/Khervyngupta/HabitTrackerNode/master/Images/Img2.png)
